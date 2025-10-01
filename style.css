@@ -330,7 +330,7 @@ a {
   }
 
   .content-main {
-    padding: 100%;
+    width: 100%;
   }
 
   .content-side {
